@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BhavyaSreeAddela
 - 👀 I’m a CSE Student @JNTUHCES
 - 🌱 My Technical proficiencies include Python, C, C++, MySQL, PowerBI
-- 💞️ I’m looking to collaborate on ML and Python projects
+- 💞️ I’m looking to collaborate on real world projects
 - 📫 How to reach me bhavyasreeaddela@gmail.com
